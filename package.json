@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Testing deployment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasMufamadi/hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasMufamadi/hello/issues"
+  },
+  "homepage": "https://github.com/NicolasMufamadi/hello#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
